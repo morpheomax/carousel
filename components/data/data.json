@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "img": "./img/1.jpg",
+            "author": "MAXDEV",
+            "title": "CAROUSEL",
+            "topic": "GALERY",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum libero ipsam nulla deserunt. Tenetur, consectetur enim! Commodi neque voluptas perferendis."
+        },
+        {
+            "img": "./img/2.jpg",
+            "author": "MAXDEV",
+            "title": "CAROUSEL",
+            "topic": "GALERY",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum libero ipsam nulla deserunt. Tenetur, consectetur enim! Commodi neque voluptas perferendis."
+        },
+        {
+            "img": "./img/3.jpg",
+            "author": "MAXDEV",
+            "title": "CAROUSEL",
+            "topic": "GALERY",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum libero ipsam nulla deserunt. Tenetur, consectetur enim! Commodi neque voluptas perferendis."
+        },
+        {
+            "img": "./img/4.jpg",
+            "author": "MAXDEV",
+            "title": "CAROUSEL",
+            "topic": "GALERY",
+            "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum libero ipsam nulla deserunt. Tenetur, consectetur enim! Commodi neque voluptas perferendis."
+        }
+    ]
+}
